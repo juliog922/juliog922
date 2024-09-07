@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliog922
-- 👀 I’m interested in everything related of Data Science, Blockchain and Backend.
+- 👀 I’m interested in everything related of Data Science, Distrbuted Systems and Backend.
 - 🌱 I’m currently learning Rust Programing Lenguage
 - 💞️ I’m looking to collaborate on Backend projects.
 - 📫 How to reach me juliogalindo922@gamil.com
